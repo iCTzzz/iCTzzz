@@ -11,7 +11,7 @@ With experience in software development, operations and digital environments, I 
 - 🧠 Background in operations, management and digital workflows
 - 🤝 Open to collaboration on meaningful projects
 - 📧 Contact: clatza9@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/jes%C3%BAs-alejandro-rasgado-clatza-055b03305/
+- 🔗 LinkedIn: https://www.linkedin.com/in/alejandro-clatza-055b03305/
 
 ---
 
