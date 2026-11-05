@@ -2,32 +2,11 @@
 
 Full Stack Developer focused on building real digital solutions.
 
-I design and develop systems, web applications and automation tools that help businesses optimize operations, reduce manual work and scale efficiently.
+- Open to collaboration on meaningful projects
+- Contact: clatza9@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alejandro-clatza-055b03305/
 
-With experience in software development, operations and digital environments, I approach problems from both technical and business perspectives.
 
-- 🛠 Freelance Software Engineer since 2023
-- ⚙️ Focused on full stack development, system architecture and automation
-- 🧠 Background in operations, management and digital workflows
-- 🤝 Open to collaboration on meaningful projects
-- 📧 Contact: clatza9@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/alejandro-clatza-055b03305/
-
----
-
-## 🧠 Core Strengths
-
-- Full Stack Development (Frontend + Backend)
-- System Thinking & Problem Solving
-- Process Optimization
-- Automation & Workflow Design
-- Backend Architecture
-- Database Design & Management
-- Business-Oriented Development
-
----
-
-## 🔧 Technologies Stack 🔧
 
 **Languages**
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
